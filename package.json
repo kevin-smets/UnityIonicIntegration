@@ -1,0 +1,20 @@
+{
+  "name": "UnityIonicIntegration",
+  "version": "1.0.0",
+  "description": "This tutorial will show you how to integrate your Unity app into an Ionic app and send messages between them (optional). It is tested on a medium-scale commercial Unity project with Vuforia plugin (optional).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-smets/UnityIonicIntegration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-smets/UnityIonicIntegration/issues"
+  },
+  "homepage": "https://github.com/kevin-smets/UnityIonicIntegration#readme"
+}
